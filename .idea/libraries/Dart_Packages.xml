@@ -5,134 +5,134 @@
         <entry key="collection">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/packages/flutter/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/packages/flutter/lib" />
             </list>
           </value>
         </entry>
         <entry key="flutter_web_plugins">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/packages/flutter_web_plugins/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/packages/flutter_web_plugins/lib" />
             </list>
           </value>
         </entry>
         <entry key="intl">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="meta">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib" />
             </list>
           </value>
         </entry>
         <entry key="path">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="plugin_platform_interface">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.1/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="sky_engine">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/bin/cache/pkg/sky_engine/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/bin/cache/pkg/sky_engine/lib" />
             </list>
           </value>
         </entry>
         <entry key="syncfusion_flutter_core">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/git/charts_flutter_core-60bef56125f6083b8d16e1699b90e118deab8939/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/git/charts_flutter_core-60bef56125f6083b8d16e1699b90e118deab8939/lib" />
             </list>
           </value>
         </entry>
         <entry key="typed_data">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.1/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_macos">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+2/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+2/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_platform_interface">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib" />
             </list>
           </value>
         </entry>
         <entry key="url_launcher_web">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1/lib" />
             </list>
           </value>
         </entry>
         <entry key="utf">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/utf-0.9.0+5/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/utf-0.9.0+5/lib" />
             </list>
           </value>
         </entry>
         <entry key="vector_math">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib" />
+              <option value="$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib" />
             </list>
           </value>
         </entry>
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/git/charts_flutter_core-60bef56125f6083b8d16e1699b90e118deab8939/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.1/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.1/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+2/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/utf-0.9.0+5/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/bin/cache/pkg/sky_engine/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/packages/flutter/lib" />
-      <root url="file://$PROJECT_DIR$/../../flutter/packages/flutter_web_plugins/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/git/charts_flutter_core-60bef56125f6083b8d16e1699b90e118deab8939/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.16.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-1.0.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+2/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.5/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/utf-0.9.0+5/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/bin/cache/pkg/sky_engine/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/packages/flutter/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../sdk/flutter/packages/flutter_web_plugins/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
