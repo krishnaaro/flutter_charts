@@ -8,8 +8,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  syncfusion_flutter_core:
-    git: https://github.com/sad1996/charts_flutter_core
   intl: ">=0.15.0 <0.17.0"
   vector_math: ^2.0.8
 

@@ -363,7 +363,6 @@ class _SfPyramidChartState extends State<SfPyramidChart>
 
   @override
   Widget build(BuildContext context) {
-    SyncfusionLicense.validateLicense(context);
     final ThemeData theme = Theme.of(context);
     widget._chartTheme._initializeChartTheme(theme);
     widget._chartState = this;
