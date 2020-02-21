@@ -1,6 +1,6 @@
 name: flutter_charts
 description: Flutter Charts is to create cartesian and circular charts.
-version: 17.4.50
+version: 1.0.0
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
